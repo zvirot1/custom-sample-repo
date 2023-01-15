@@ -1,0 +1,18 @@
+{
+   "metadata":{
+      "version":"1"
+   },
+   "name": "My Sample Repository",
+   "templates":[
+      {
+         "path":"/path/to/sample1_location",
+         "name":"My Sample 1",
+         "description":"The first sample of its name."
+      },
+      {
+         "path":"/path/to/sample2_location",
+         "name":"My Sample 2",
+         "description":"The sequel."
+      }
+   ]
+}
